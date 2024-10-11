@@ -1,0 +1,27 @@
+/* Your styles here */
+img header{
+    border: black;
+    margin-top: 0;
+}
+h3{
+    text-align: center;
+    background-color: rgb(247, 90, 18);
+    color: aliceblue;
+}
+.block {
+    display: inline;
+    margin: 0.5em;
+}
+
+.inline img{
+    display: inline-block;
+    margin: 10px;
+    width: 100%;
+}
+
+#abs {
+    text-align: center;
+    display: inline;
+    margin: 0.5em;
+
+}
